@@ -14,7 +14,7 @@ Reprenez le contrôle !
 <li>Masquer/afficher/auto pour le menu à droite de l'écran</li>
 
 <span> </span>
-Chaque fonction est activable/désactivable par le menu (voir capture d'écran ci-dessous)
+Chaque fonction est activable/désactivable par le menu
 
 <h3>Installation</h3>
 Installez <a href="https://addons.mozilla.org/firefox/addon/greasemonkey/">Greasemonkey pour Firefox</a> ou <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr">Tampermonkey pour Chrome ou Safari</a>
