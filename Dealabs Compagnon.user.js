@@ -146,7 +146,7 @@ $(".button_grey_structure_menu_categorie.theme").css("padding-top", "10px");
 $(".button_grey_structure_menu_categorie.theme").css("padding-bottom", "10px");
 //dropdown
 $('.structure').css("overflow", "visible");  
-$('#dropdown').css({'position': 'relative', 'display': 'inline-block','z-index': '999999', 'font-size': '1em'});
+$('#dropdown').css({'position': 'relative', 'display': 'inline-block','z-index': '900', 'font-size': '1em'});
 $('.dropdown-content').css({'display': 'none', 'position': 'absolute', 'background-color': 'black', 'width': '230px', 'box-shadow': '0px 8px 16px 0px rgba(0,0,0,1)'});
 $('.dropdown-content').find('a,span,#temp').css({'color': '#bfbfbf', 'padding': '8px 8px', 'text-decoration': 'none', 'display': 'block', 'background-color': '#333333'});
 $("#dropdown").hover(function() {
