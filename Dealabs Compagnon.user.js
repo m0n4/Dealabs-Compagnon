@@ -654,8 +654,6 @@ function removeaffiliate(link) {
         link = link.replace(bigregex[j], "");
     }   
 
-    
-    alert(link);
     var pattern = /^http/i;
     if (pattern.test(link)) {
          GM_openInTab(link);
